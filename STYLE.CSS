@@ -1,0 +1,23 @@
+/* CSS class named 'div' */
+
+div {
+    background-color: #c9f507;
+    color: rgb(255, 0, 0);
+    font-size: large;
+}
+p{
+    background-color: #098676;
+    color: white;
+    font-size: x-small;
+}
+#title {
+    background-color: red;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#contact{
+    background-color: black;
+    color: yellow;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
